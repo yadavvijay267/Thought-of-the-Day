@@ -1,0 +1,8 @@
+{
+  "runtime": "static",
+  "platformVersion": 15,
+  "entry": "index.html",
+  "name": "Thought of the Day",
+  "slug": "thought-of-the-day",
+  "managedCronJobs": []
+}
